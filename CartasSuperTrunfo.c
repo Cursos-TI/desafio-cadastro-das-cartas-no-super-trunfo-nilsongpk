@@ -2,17 +2,17 @@
 
 
 int main() {
-char CódigodaCarta[20];
+char Codigo[20];
 char Estado;
 char NomedaCidade[50];
 int População;
-float Área em Km²;
-float Pib;
-int Número dos Pontos Turísticos;
+float Area;
+float PIB;
+int Pontos;
 
 
 Printf("Digite Código da Carta: \n");
-Scanf("%s", &CódigodaCarta);
+Scanf("%s", &Codigo);
 
 
 
