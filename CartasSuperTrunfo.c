@@ -22,7 +22,6 @@ getchar();
 printf("Digite a Cidade \n");
 scanf("%s", Cidade1);
 getchar();
-
 printf("Digite a População: \n");
 scanf("%d", &Populacao1);
 getchar();
@@ -80,6 +79,7 @@ printf("População: %d\n", Populacao2);
 printf("Aréa (em km²): %2.f\n", Area2);
 printf("PIB: %.2f bilhões de reais\n", Pib2);
 printf("Pontos Turísticos da Cidade: %d\n", Turisticos2);
+
 
 return 0;
 
