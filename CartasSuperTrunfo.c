@@ -85,6 +85,6 @@ printf("\n\n====== INFORMAÇÕES DAS CARTAS ======\n");
 
  printf("\n\n==========================\n");
 
- 
+
 return 0;
 }
