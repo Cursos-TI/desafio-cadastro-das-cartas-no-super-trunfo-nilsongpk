@@ -84,7 +84,7 @@ printf("\n\n====== INFORMAÇÕES DAS CARTAS ======\n");
  printf("A Densidade Populacional é: %.2f hab/km²\n", densidade2);
 
  printf("\n\n==========================\n");
-
-
+ 
+ 
 return 0;
 }
