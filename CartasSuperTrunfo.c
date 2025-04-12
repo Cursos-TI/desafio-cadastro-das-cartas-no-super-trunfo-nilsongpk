@@ -19,7 +19,7 @@ int main() {
     scanf("%s", Estado1);
 
     printf("Digite a Cidade: ");
-    scanf(" %[^\n]", Cidade1); // lê a cidade com espaços
+    scanf(" %[^\n]", Cidade1);
 
     printf("Digite a População: ");
     scanf("%d", &Populacao1);
