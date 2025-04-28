@@ -47,13 +47,11 @@ int main() {
     printf("Digite o Número de Pontos Turísticos: ");
     scanf("%d", &carta2Turisticos);
 
-    // Cálculo dos indicadores
     carta1Densidade = carta1Populacao / carta1Area;
     carta2Densidade = carta2Populacao / carta2Area;
     carta1Percapita = (carta1Pib * 1000000000) / carta1Populacao;
     carta2Percapita = (carta2Pib * 1000000000) / carta2Populacao;
 
-    // Comparação de atributo escolhido (exemplo: PIB per capita)
     printf("\n====== COMPARAÇÃO DE CARTAS ======\n");
     printf("Atributo escolhido: PIB per capita\n");
 
